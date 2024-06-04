@@ -1,0 +1,255 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "insert",
+      "request": "launch",
+      "mainClass": "insert",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "interestcons",
+      "request": "launch",
+      "mainClass": "interestcons",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "moverriding",
+      "request": "launch",
+      "mainClass": "moverriding",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "mouse",
+      "request": "launch",
+      "mainClass": "mouse",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "mevent",
+      "request": "launch",
+      "mainClass": "mevent",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "stringjava",
+      "request": "launch",
+      "mainClass": "stringjava",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "r",
+      "request": "launch",
+      "mainClass": "r",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "c",
+      "request": "launch",
+      "mainClass": "c",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "w",
+      "request": "launch",
+      "mainClass": "w",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionExample1",
+      "request": "launch",
+      "mainClass": "ExceptionExample1",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "SwingExample",
+      "request": "launch",
+      "mainClass": "SwingExample",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "awt2_07",
+      "request": "launch",
+      "mainClass": "awt2_07",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "AWTComponentsExample",
+      "request": "launch",
+      "mainClass": "AWTComponentsExample",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "hie_inheritance",
+      "request": "launch",
+      "mainClass": "hie_inheritance",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "multilevel_inheritance",
+      "request": "launch",
+      "mainClass": "multilevel_inheritance",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "single_inheritance",
+      "request": "launch",
+      "mainClass": "single_inheritance",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "m_overriding",
+      "request": "launch",
+      "mainClass": "m_overriding",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "m_overloading2",
+      "request": "launch",
+      "mainClass": "m_overloading2",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "m_overloading",
+      "request": "launch",
+      "mainClass": "m_overloading",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "method_parameter",
+      "request": "launch",
+      "mainClass": "method_parameter",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "m",
+      "request": "launch",
+      "mainClass": "m",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "foreach",
+      "request": "launch",
+      "mainClass": "foreach",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "forr",
+      "request": "launch",
+      "mainClass": "forr",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "wh",
+      "request": "launch",
+      "mainClass": "wh",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "if_else",
+      "request": "launch",
+      "mainClass": "if_else",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "math",
+      "request": "launch",
+      "mainClass": "math",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "string",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "operators",
+      "request": "launch",
+      "mainClass": "operators",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "variable",
+      "request": "launch",
+      "mainClass": "variable",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "first",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "java_5af50e33"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/A/OneDrive/Desktop/java",
+      "program": "c:/Users/A/OneDrive/Desktop/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
